@@ -7,9 +7,10 @@ This project is about creating mobile test automation scenarios building a frame
 Our team name is : **SahiMobi** and has 4 members to attend that [Hackhaton](https://mobven.atlassian.net/wiki/spaces/TH/overview), and developed together. 
 
 Thanks to my friends; 
-- [Enes Aydın] (https://github.com/enesaydinqa)
-- [Burak Ergören] (https://github.com/burakergoren)
-- [Nahide Ergün] (https://github.com/nahidErgun)
+<br/>
+- [Enes Aydın](https://github.com/enesaydinqa)
+- [Burak Ergören](https://github.com/burakergoren)
+- [Nahide Ergün](https://github.com/nahidErgun)
 
 Total 3 scenarios developed via Appium libraries with Android platform. In addition, this project has 4 modules.
     
