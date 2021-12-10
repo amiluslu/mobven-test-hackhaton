@@ -5,11 +5,11 @@ This project is about creating mobile test automation scenarios building a frame
 <h3 align="center">We are 2nd place in that Hackhaton with this project <img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2526/PNG/512/trophy_cup_second_award_icon_151772.png"></h3>
 <br/>
 Our team name is : **SahiMobi** and has 4 members to attend that [Hackhaton](https://mobven.atlassian.net/wiki/spaces/TH/overview), and developed together. 
-<br>
+
 Thanks to my friends; 
-- [Enes Aydın](https://github.com/enesaydinqa)
-- [Burak Ergören](https://github.com/burakergoren)
-- [Nahide Ergün](https://github.com/nahidErgun)
+- [Enes Aydın] (https://github.com/enesaydinqa)
+- [Burak Ergören] (https://github.com/burakergoren)
+- [Nahide Ergün] (https://github.com/nahidErgun)
 
 Total 3 scenarios developed via Appium libraries with Android platform. In addition, this project has 4 modules.
     
