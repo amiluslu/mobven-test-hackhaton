@@ -4,7 +4,8 @@ This project is about creating mobile test automation scenarios building a frame
 
 <h3 align="center">We are 2nd place in that Hackhaton with this project <img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2526/PNG/512/trophy_cup_second_award_icon_151772.png"></h3>
 <br/>
-Our team name is : <b>SahiMobi</b> and has 4 members to attend that and developed together. 
+
+Our team name is : <b>SahiMobi</b> and has 4 members to attend that [Hackathon](https://mobven.atlassian.net/wiki/spaces/TH/overview) and developed together. 
 <br/>
 Thanks to my friends; 
 <br/>
